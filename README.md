@@ -14,3 +14,10 @@ To set up the database locally:
 5. Execute the SQL script against your `HotelBookingDb` database.
 
 *Note: Any structural updates (like `ALTER TABLE`) to the database must be appended or modified within this `DatabaseSchema.sql` script manually.*
+
+## Initial Login Credentials
+
+To access the owner portal of the application, you can use the default administrator credentials inserted by the SQL script:
+
+- **Username**: `nithish`
+- **Password**: `admin`
